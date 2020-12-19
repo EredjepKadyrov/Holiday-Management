@@ -53,13 +53,5 @@ occasional holiday(such as Family/ Health issues and so on)
 
 
 
-##  - For the submission task a maximum of 30 points can be achieved:
-#### • 60% Syntax and semantics (correctness)
-
-       20% Documentation (comprehensibility)
-
-       10% Structuring (readability of the source code, OO principles)
-
-       10% Creativity and your own ideas!
 
 
